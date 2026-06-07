@@ -14,8 +14,8 @@
 **Giải thích:**
 
 - Mặc định `col-12` nên trên mobile mỗi box chiếm 12/12 = 100%.
-- Từ `md` trở lên, `col-md-6` làm mỗi box chiếm 6/12 = 50%.
-- Từ `lg` trở lên, `col-lg-3` làm mỗi box chiếm 3/12 = 25%.
+- Từ `md` trở lên, `col-md-6` làm mỗi box chiếm 6/12 = 50%
+- Từ `lg` trở lên, `col-lg-3` làm mỗi box chiếm 3/12 = 25%
 
 **Câu hỏi thêm:**
 
